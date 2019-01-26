@@ -1,0 +1,253 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c88d868b9d6e54e5287b63e18302fca\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\52bca51a4d92d5789426d8ccacaaa28e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b61712847a08f06bab4f9c114827fe4e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\83e478486c0ece18b43fefd8336aab09\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\a63ae3121b00d0664c57ca30ed7ef4fb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\a06b9d03dc4d3fc92c9b4acf33497737\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\af9b26e2af65c07b0536579de4fd4797\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e0786b78474be2dfca27193f5684d085\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fa93137c8f9bcf5d4057e9b962538e94\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\297a8f76b890ebf05a27794a1d1667c5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\d9a5dcf45a95b2393c302eea61f78f84\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6c2372fc341116feafad1f054cbd8ae6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\1982bd7aa2e3793c13f7c7270bbfd004\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\47de86582738e9fc48e973c2f6458374\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e2030e7bf16d197d9eaa5c8eea3ebf68\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\678fb371df2405ec2cc458d3dd6582b3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\c85f7991ff8822133722e9f7d1093b90\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1810af43449a57daf2646f2f688a8b11\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f592d950fbe5fe5fd65a9620d4764eb4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2a722d00962404bd6ec36e519c4a1472\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7982c579312f54a0d775d646b7f7b508\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\576e3bd453997103dc73dc191bb39d65\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:4:5-35
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:9:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:11:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:12:22-62
+application
+ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:15:5-34:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c88d868b9d6e54e5287b63e18302fca\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c88d868b9d6e54e5287b63e18302fca\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\52bca51a4d92d5789426d8ccacaaa28e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\52bca51a4d92d5789426d8ccacaaa28e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b61712847a08f06bab4f9c114827fe4e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b61712847a08f06bab4f9c114827fe4e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\83e478486c0ece18b43fefd8336aab09\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\83e478486c0ece18b43fefd8336aab09\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\a63ae3121b00d0664c57ca30ed7ef4fb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\a63ae3121b00d0664c57ca30ed7ef4fb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\a06b9d03dc4d3fc92c9b4acf33497737\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\a06b9d03dc4d3fc92c9b4acf33497737\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e0786b78474be2dfca27193f5684d085\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e0786b78474be2dfca27193f5684d085\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fa93137c8f9bcf5d4057e9b962538e94\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fa93137c8f9bcf5d4057e9b962538e94\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\297a8f76b890ebf05a27794a1d1667c5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\297a8f76b890ebf05a27794a1d1667c5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\d9a5dcf45a95b2393c302eea61f78f84\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\d9a5dcf45a95b2393c302eea61f78f84\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6c2372fc341116feafad1f054cbd8ae6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6c2372fc341116feafad1f054cbd8ae6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\47de86582738e9fc48e973c2f6458374\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\47de86582738e9fc48e973c2f6458374\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e2030e7bf16d197d9eaa5c8eea3ebf68\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e2030e7bf16d197d9eaa5c8eea3ebf68\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\678fb371df2405ec2cc458d3dd6582b3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\678fb371df2405ec2cc458d3dd6582b3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\c85f7991ff8822133722e9f7d1093b90\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\c85f7991ff8822133722e9f7d1093b90\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1810af43449a57daf2646f2f688a8b11\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1810af43449a57daf2646f2f688a8b11\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f592d950fbe5fe5fd65a9620d4764eb4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f592d950fbe5fe5fd65a9620d4764eb4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2a722d00962404bd6ec36e519c4a1472\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2a722d00962404bd6ec36e519c4a1472\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7982c579312f54a0d775d646b7f7b508\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7982c579312f54a0d775d646b7f7b508\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\576e3bd453997103dc73dc191bb39d65\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\576e3bd453997103dc73dc191bb39d65\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:21:9-37
+	android:label
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:20:9-37
+	android:hardwareAccelerated
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:18:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:17:9-42
+	android:icon
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:19:9-38
+	android:allowBackup
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:22:9-47
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:23:9-25:35
+	android:value
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:25:13-32
+	android:name
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:24:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:label
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:28:13-38
+	android:name
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:27:19-100
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c88d868b9d6e54e5287b63e18302fca\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c88d868b9d6e54e5287b63e18302fca\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\52bca51a4d92d5789426d8ccacaaa28e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\52bca51a4d92d5789426d8ccacaaa28e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b61712847a08f06bab4f9c114827fe4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b61712847a08f06bab4f9c114827fe4e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\83e478486c0ece18b43fefd8336aab09\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\83e478486c0ece18b43fefd8336aab09\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\a63ae3121b00d0664c57ca30ed7ef4fb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\a63ae3121b00d0664c57ca30ed7ef4fb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\a06b9d03dc4d3fc92c9b4acf33497737\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\a06b9d03dc4d3fc92c9b4acf33497737\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\af9b26e2af65c07b0536579de4fd4797\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\af9b26e2af65c07b0536579de4fd4797\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e0786b78474be2dfca27193f5684d085\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e0786b78474be2dfca27193f5684d085\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fa93137c8f9bcf5d4057e9b962538e94\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fa93137c8f9bcf5d4057e9b962538e94\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\297a8f76b890ebf05a27794a1d1667c5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\297a8f76b890ebf05a27794a1d1667c5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\d9a5dcf45a95b2393c302eea61f78f84\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\d9a5dcf45a95b2393c302eea61f78f84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6c2372fc341116feafad1f054cbd8ae6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6c2372fc341116feafad1f054cbd8ae6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\1982bd7aa2e3793c13f7c7270bbfd004\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\1982bd7aa2e3793c13f7c7270bbfd004\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\47de86582738e9fc48e973c2f6458374\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\47de86582738e9fc48e973c2f6458374\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e2030e7bf16d197d9eaa5c8eea3ebf68\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e2030e7bf16d197d9eaa5c8eea3ebf68\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\678fb371df2405ec2cc458d3dd6582b3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\678fb371df2405ec2cc458d3dd6582b3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\c85f7991ff8822133722e9f7d1093b90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\c85f7991ff8822133722e9f7d1093b90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1810af43449a57daf2646f2f688a8b11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1810af43449a57daf2646f2f688a8b11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f592d950fbe5fe5fd65a9620d4764eb4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f592d950fbe5fe5fd65a9620d4764eb4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2a722d00962404bd6ec36e519c4a1472\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2a722d00962404bd6ec36e519c4a1472\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7982c579312f54a0d775d646b7f7b508\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7982c579312f54a0d775d646b7f7b508\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\576e3bd453997103dc73dc191bb39d65\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\576e3bd453997103dc73dc191bb39d65\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c88d868b9d6e54e5287b63e18302fca\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tofe\Documents\DevSW\GoogleAPI\ocr-reader-complete\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c88d868b9d6e54e5287b63e18302fca\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\52bca51a4d92d5789426d8ccacaaa28e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\52bca51a4d92d5789426d8ccacaaa28e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b61712847a08f06bab4f9c114827fe4e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b61712847a08f06bab4f9c114827fe4e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6c2372fc341116feafad1f054cbd8ae6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6c2372fc341116feafad1f054cbd8ae6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\47de86582738e9fc48e973c2f6458374\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\47de86582738e9fc48e973c2f6458374\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e2030e7bf16d197d9eaa5c8eea3ebf68\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e2030e7bf16d197d9eaa5c8eea3ebf68\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\678fb371df2405ec2cc458d3dd6582b3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\678fb371df2405ec2cc458d3dd6582b3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\c85f7991ff8822133722e9f7d1093b90\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\c85f7991ff8822133722e9f7d1093b90\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1810af43449a57daf2646f2f688a8b11\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1810af43449a57daf2646f2f688a8b11\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f592d950fbe5fe5fd65a9620d4764eb4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f592d950fbe5fe5fd65a9620d4764eb4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2a722d00962404bd6ec36e519c4a1472\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2a722d00962404bd6ec36e519c4a1472\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7982c579312f54a0d775d646b7f7b508\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7982c579312f54a0d775d646b7f7b508\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c88d868b9d6e54e5287b63e18302fca\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c88d868b9d6e54e5287b63e18302fca\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fa93137c8f9bcf5d4057e9b962538e94\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fa93137c8f9bcf5d4057e9b962538e94\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fa93137c8f9bcf5d4057e9b962538e94\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\fa93137c8f9bcf5d4057e9b962538e94\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\d9a5dcf45a95b2393c302eea61f78f84\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\d9a5dcf45a95b2393c302eea61f78f84\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\d9a5dcf45a95b2393c302eea61f78f84\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\576e3bd453997103dc73dc191bb39d65\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\576e3bd453997103dc73dc191bb39d65\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tofe\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\576e3bd453997103dc73dc191bb39d65\AndroidManifest.xml:26:13-58
